@@ -1,4 +1,4 @@
-# ImageEditor Project
+# Topography Pathfinder
 
 ## Overview
 This project is a simple image processing application that reads a topographic map from a text file, generates a grayscale image representing the topography, and visualizes the elevation data. Additionally, it can calculate and draw the optimal path through the map, based on elevation differences, using a greedy algorithm.
