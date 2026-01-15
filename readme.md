@@ -1,5 +1,11 @@
 # Topography Pathfinder
 
+![map](https://github.com/user-attachments/assets/3e6419c1-4a39-4d70-a285-d6f298b7b81e)
+
+
+![map2](https://github.com/user-attachments/assets/acd008c1-6aeb-4fd8-ae08-55ce32a38614)
+
+
 ## Overview
 This project is a simple image processing application that reads a topographic map from a text file, generates a grayscale image representing the topography, and visualizes the elevation data. Additionally, it can calculate and draw the optimal path through the map, based on elevation differences, using a greedy algorithm.
 
